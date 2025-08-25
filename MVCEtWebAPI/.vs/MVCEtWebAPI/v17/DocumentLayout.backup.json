@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\MVCEtWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B30ED4-38A0-4ACC-93C3-3804A5B86988}|..\\WebAPI\\WebAPI.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B30ED4-38A0-4ACC-93C3-3804A5B86988}|..\\WebAPI\\WebAPI.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B30ED4-38A0-4ACC-93C3-3804A5B86988}|..\\WebAPI\\WebAPI.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B30ED4-38A0-4ACC-93C3-3804A5B86988}|..\\WebAPI\\WebAPI.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B30ED4-38A0-4ACC-93C3-3804A5B86988}|..\\WebAPI\\WebAPI.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B30ED4-38A0-4ACC-93C3-3804A5B86988}|..\\WebAPI\\WebAPI.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B91AB82-E0BE-4AA5-946A-072472F3FE6E}|..\\Models\\Models.csproj|c:\\users\\2234344\\desktop\\blanchette-tadeo_5w5\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:51:39.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\WebAPI\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:46:10.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "..\\WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-25T13:43:35.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\Program.cs",
+              "RelativeToolTip": "..\\WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:29:10.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "..\\WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "..\\WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T13:27:57.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "..\\WebAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\WebAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "..\\WebAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwFwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T13:25:23.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Models",
+              "DocumentMoniker": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "..\\Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\2234344\\Desktop\\Blanchette-Tadeo_5W5\\Models\\Models.csproj",
+              "RelativeToolTip": "..\\Models\\Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T13:14:22.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
